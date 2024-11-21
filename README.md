@@ -15,12 +15,12 @@ Place the extracted contents in the root directory of your WHMCS installation.
 Available Email Template Variables
 You can use the following variables in your WHMCS email templates:
 
-{$auto_login_link}: AutoLogin to the Home Page
-{$auto_login_link_submit_ticket}: AutoLogin to Submit a Ticket
-{$auto_login_link_ticket}: AutoLogin to View All Tickets
-{$auto_login_link_invoices}: AutoLogin to View All Invoices
-{$auto_login_link_specific_ticket}: AutoLogin to View a Specific Ticket
-{$auto_login_link_specific_invoice}: AutoLogin to View a Specific Invoice
+1. {$auto_login_link}: AutoLogin to the Home Page
+2. {$auto_login_link_submit_ticket}: AutoLogin to Submit a Ticket
+3. {$auto_login_link_ticket}: AutoLogin to View All Tickets
+4. {$auto_login_link_invoices}: AutoLogin to View All Invoices
+5. {$auto_login_link_specific_ticket}: AutoLogin to View a Specific Ticket
+6. {$auto_login_link_specific_invoice}: AutoLogin to View a Specific Invoice
 
 **Contributions and Support**
 Errors: If you encounter any issues, please report them in the discussion thread.
